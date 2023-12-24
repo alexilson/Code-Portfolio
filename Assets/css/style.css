@@ -104,6 +104,10 @@ header nav li {
     flex-basis: 100%;
 }
 
+.link_tile:first-child img {
+    max-width: 100%;
+}
+
 .link_tile img {
     max-width: 50%;
 }
