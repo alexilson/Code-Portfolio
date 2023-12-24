@@ -104,6 +104,10 @@ header nav li {
     flex-basis: 100%;
 }
 
+.link_tile img {
+    max-width: 50%;
+}
+
 footer {
     font-family: var(--font_code);
     text-align: var(--textalign);
