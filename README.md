@@ -1,14 +1,40 @@
-Website by Alex Ilson
-It is a demo of my HTML/CSS skills.
-Each link leads to a different challenge from the University of Texas at Austin Full Stack Web Development Bootcamp course.
-Some of the links are placeholders that will eventually be replaced by new challenges as time passes.
-Thanks for reading!
+# Code Portfolio - Alex Ilson
 
-I used Xpert the AI Learning Assistant to help me write some code, noted with the comment:
-/* code from Xpert */
+![Screenshot of the code portfolio website, showing a black background with green borders, across the top of the page is a black and yellow striped banner, with an image of the site owner on the right.](./Assets/images/screenshot.png)
 
-Live URL: https://alexilson.github.io/wk2-challenge/
+## Description
+Portfolio page to demonstrate my skills in HTML and CSS.
 
-Repo Link: https://github.com/alexilson/wk2-challenge
+Live URL: https://alexilson.github.io/Code-Portfolio/
 
-![alt text](./Assets/images/screenshot.png)
+Repo URL: https://github.com/alexilson/Code-Portfolio
+
+## Table of Contents
+[Installation](#installation)
+
+[Usage](#usage)
+
+[License](#license)
+
+[Contributing](#contributing)
+
+[Tests](#tests)
+
+[Questions](#questions)
+
+
+## Installation
+Clone repo and run the index.html file in a web browser.
+
+## Usage
+Click the various links to be taken to an application I wrote or worked on.
+
+## License
+[![License: mit](https://img.shields.io/badge/mit.svg)](https://api.github.com/licenses/mit)
+
+## Questions
+For additional questions, please contact me here:
+
+GitHub: https://www.github.com/alexilson
+
+Email: ilson.alex@gmail.com
